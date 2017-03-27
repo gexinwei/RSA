@@ -8,6 +8,10 @@
 
 #import <Foundation/Foundation.h>
 
+/**
+ *  RSA加密 介绍地址：http://www.jianshu.com/p/582faa5dcd5d
+ */
+
 @interface QBRSAModel : NSObject
 
 /**
